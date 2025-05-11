@@ -7,7 +7,7 @@ Software Engineer passionate about building scalable applications and leveraging
 - 🌱 I'm currently exploring **Multimodal Behavioral Analysis** and **Cloud-Native Development**
 - 🔭 Working on advanced **Machine Learning** projects with focus on stress evaluation
 - 💬 Ask me about **Full-Stack Development**, **ML/AI**, and **Cloud Technologies**
-- 📫 How to reach me: shraddhajainak@gmail.com | (213) 675-0721
+- 📫 How to reach me: shraddhajainak@gmail.com |
 
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddhajainak5&show_icons=true&locale=en&layout=compact" alt="shraddhajainak5" /></p>
