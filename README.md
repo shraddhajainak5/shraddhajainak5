@@ -26,5 +26,4 @@ Software Engineer passionate about building scalable applications and leveraging
 
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddhajainak5&show_icons=true&locale=en&layout=compact" alt="shraddhajainak5" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddhajainak5&show_icons=true&locale=en" alt="shraddhajainak5" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhajainak5" alt="shraddhajainak5" /></p>
