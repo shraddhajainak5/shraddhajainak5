@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Shraddha Jainak
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddha-jainak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shraddhajainak@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.linkedin.com/in/shraddha-jainak)
 
 ## 🎓 About Me
 Software Engineer passionate about building scalable applications and leveraging machine learning to solve real-world problems. Currently pursuing my Master's in Computer Science at University of Southern California.
