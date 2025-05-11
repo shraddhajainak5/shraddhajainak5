@@ -11,12 +11,16 @@ Software Engineer passionate about building scalable applications and leveraging
 - 🌱 I'm currently exploring **Multimodal Behavioral Analysis** and **Cloud-Native Development**
 - 🔭 Working on advanced **Machine Learning** projects with focus on stress evaluation
 - 💬 Ask me about **Full-Stack Development**, **ML/AI**, and **Cloud Technologies**
-- 📫 How to reach me: shraddhajainak@gmail.com |
+- 📫 How to reach me: shraddhajainak@gmail.com | (213) 675-0721
 
 ## 📊 GitHub Activity Overview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shraddha-jainak/shraddha-jainak/main/contribution-graph.svg" alt="GitHub Contribution Distribution" width="400"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="contribution-graph.svg">
+    <img alt="GitHub Contribution Distribution" src="contribution-graph.svg" width="400">
+  </picture>
 </div>
 
 ## 📈 GitHub Stats
