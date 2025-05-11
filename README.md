@@ -30,9 +30,3 @@ Software Engineer passionate about building scalable applications and leveraging
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddha-jainak&show_icons=true&locale=en" alt="shraddha-jainak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha-jainak" alt="shraddha-jainak" /></p>
-
-## 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/shraddha-jainak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha-jainak" height="30" width="40" /></a>
-</p>
