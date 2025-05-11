@@ -1,0 +1,36 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#ffffff" rx="10" ry="10"/>
+  
+  <!-- Axes -->
+  <line x1="300" y1="50" x2="300" y2="350" stroke="#888" stroke-width="2"/>
+  <line x1="100" y1="200" x2="500" y2="200" stroke="#888" stroke-width="2"/>
+  
+  <!-- Labels -->
+  <text x="300" y="30" text-anchor="middle" font-family="Arial" font-size="16" fill="#333" font-weight="bold">20%</text>
+  <text x="300" y="45" text-anchor="middle" font-family="Arial" font-size="14" fill="#555">Code review</text>
+  
+  <text x="300" y="380" text-anchor="middle" font-family="Arial" font-size="16" fill="#333" font-weight="bold">25%</text>
+  <text x="300" y="360" text-anchor="middle" font-family="Arial" font-size="14" fill="#555">Pull requests</text>
+  
+  <text x="85" y="190" text-anchor="end" font-family="Arial" font-size="16" fill="#333" font-weight="bold">45%</text>
+  <text x="85" y="210" text-anchor="end" font-family="Arial" font-size="14" fill="#555">Commits</text>
+  
+  <text x="515" y="190" text-anchor="start" font-family="Arial" font-size="16" fill="#333" font-weight="bold">10%</text>
+  <text x="515" y="210" text-anchor="start" font-family="Arial" font-size="14" fill="#555">Issues</text>
+  
+  <!-- Data Points -->
+  <circle cx="300" cy="120" r="6" fill="#fff" stroke="#2ea44f" stroke-width="2"/>
+  <circle cx="180" cy="200" r="6" fill="#fff" stroke="#2ea44f" stroke-width="2"/>
+  <circle cx="420" cy="200" r="6" fill="#fff" stroke="#2ea44f" stroke-width="2"/>
+  <circle cx="300" cy="280" r="6" fill="#fff" stroke="#2ea44f" stroke-width="2"/>
+  
+  <!-- Contribution Area -->
+  <path d="M300,120 L180,200 L300,200 L420,200 L300,280 Z" fill="#2ea44f" opacity="0.3"/>
+  
+  <!-- Contribution Lines -->
+  <line x1="300" y1="120" x2="300" y2="200" stroke="#2ea44f" stroke-width="2"/>
+  <line x1="180" y1="200" x2="300" y2="200" stroke="#2ea44f" stroke-width="2"/>
+  <line x1="300" y1="200" x2="420" y2="200" stroke="#2ea44f" stroke-width="2"/>
+  <line x1="300" y1="200" x2="300" y2="280" stroke="#2ea44f" stroke-width="2"/>
+</svg>
