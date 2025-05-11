@@ -24,15 +24,6 @@ Software Engineer passionate about building scalable applications and leveraging
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![HighCharts](https://img.shields.io/badge/HighCharts-90E59A?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Activity Overview
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="contribution-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="contribution-graph.svg">
-    <img alt="GitHub Contribution Distribution" src="contribution-graph.svg" width="400">
-  </picture>
-</div>
-
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddhajainak5&show_icons=true&locale=en&layout=compact" alt="shraddhajainak5" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddhajainak5&show_icons=true&locale=en" alt="shraddhajainak5" /></p>
